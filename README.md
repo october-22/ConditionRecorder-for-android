@@ -1,6 +1,6 @@
 --------------------------------------------------------
 
-# ConditionRecorder for android
+# ConditionRecorder for android (Beta)
 
 --------------------------------------------------------
 ## 概要
